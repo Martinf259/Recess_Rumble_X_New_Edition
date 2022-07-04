@@ -694,6 +694,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Collab: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -707,10 +708,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 71a0a72f-3a30-4199-aeb3-e202c8a6e52c
+  cloudProjectId: 11178636-8553-4b24-8ba9-53f2babd7631
   framebufferDepthMemorylessMode: 0
-  projectName: RecessRumbleWebGL
-  organizationId: taller-iv-2021
+  projectName: Recess_Rumble_New_Edition
+  organizationId: recessrumblenewedition
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
